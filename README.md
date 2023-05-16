@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a website**
 
-- 🌱 I’m currently learning **Typescript, Tailwind CSS**
+- 🌱 I’m currently learning **Typescript, Tailwind CSS, and Data Structures**
 
 - 👯 I’m looking to collaborate on **react projects**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-bishtt&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-bishtt" /> </p>
 
-- 🔭 I’m currently working on **a website**
+- 🔭 I’m currently working on **a project**
 
 - 🌱 I’m currently learning **Typescript, Tailwind CSS, and Data Structures**
 

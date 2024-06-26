@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Himanshu Bisht</h1>
-<h3 align="center">A passionate full stack developer with 4+ years of experience</h3>
+<h3 align="center">A passionate developer with 4+ years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-bishtt&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-bishtt" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, React, Web development**
 
-- 📫 How to reach me **himanshubisht313@gmail.com**
+- 📫 How to reach me **himanshubisht2255@gmail.com**
 
 - ⚡ Fun fact **I play guitar and football**
 
